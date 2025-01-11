@@ -1,4 +1,3 @@
 # cdt_img
 
-
-clock drawing test data set
+This is a dataset for clock drawing test image.

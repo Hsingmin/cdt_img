@@ -1,0 +1,523 @@
+[
+    {},
+    {
+        "request_id": "44350de4-e6b7-4427-b17f-3b73b8e63d9f",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214642.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.63,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "1bad056d-d6f6-4e69-bb70-5b8b5fceccb1",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214947.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.58,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "900839d8-cd44-405f-9645-535baf1cbec9",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214447.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.57,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "75bc353d-9d9a-4c82-89a2-b67096743d95",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20241227_200721.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.24,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "96d02a53-3259-4c46-9f40-cf7d9e1ecf15",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214621_edit_130125138995767.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.03,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "30abfb29-c9ca-4e63-8d21-3a38a1a40976",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215055.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.55,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "fbb93078-8453-473b-816d-29c823fc458f",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215058_edit_129755493444782.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 1.28,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "cec2cd52-e63e-4ad8-a161-0e2abc6b3792",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215100_edit_129745223961971.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.13,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "a61cef52-6498-4733-9d87-f089f6d5c0ab",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214957_edit_129847223539560.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.32,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "d435d47b-b294-4fab-abdc-1512f0b061d7",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214552.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.96,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "b2eee16d-9921-401c-beda-161ff937c824",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214436.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.66,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "9aca850b-99de-4b27-95ee-54a12fb02c71",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214624_edit_130116815815560.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.49,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "e951813e-ff1e-4fb8-995f-9ea1946dbe14",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215047_edit_129787184698944.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.22,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "11b8f42c-f18b-465c-b41f-c31d22159011",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214601.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.4,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "0bb131e1-ec3f-4de3-9fc1-61a2e154ecbb",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214453.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.97,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "3885f108-ce90-4f6e-84af-678b7378ba66",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214430.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.98,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "7d61d66b-27ba-44a4-9089-4be936ddd169",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215103.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.3,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "6761d142-2d1a-4fc8-82d6-4b1b68e49f41",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214557.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.43,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "60e7455e-09d8-479b-9826-3de3094d3891",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214450.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.42,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "29934f63-5cfc-4478-b89a-b779650a5e28",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215017.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.33,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "227833e6-7c8a-4523-aa98-43a4500c302c",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214950.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "a2a637a0-2cee-4793-bd18-a64b276d6144",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20241227_200725.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.26,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "a8be7532-61a4-43cb-a57e-af7c9739a883",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214542.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 4,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "dbea22f1-8ea7-4687-812b-ba1fc78178b0",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214634_edit_130100619785875.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.14,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "c6974aab-c3a1-455e-adc8-b99516e6f008",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214426.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.08,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "49ce6b93-e1a5-4884-a35a-8c43df6b9d38",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215029_edit_129800013948942.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "f6c68922-666c-4b2b-b8c0-bb87098836e0",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214647.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.44,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "10732a82-76d2-4826-8bce-cf34e2b4bf6a",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215019_edit_129818417249460.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.22,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "29fb4127-d6f9-4683-a112-99c3da10610d",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214937.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.06,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "4167ce25-cfd2-432e-b2f9-3551236edc6d",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214931_edit_130021831302033.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.61,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "b0fb1c20-f4a6-4a12-a2f9-a3acfcf5ab0f",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215106.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.46,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "af5d5813-0219-463c-83db-33057b1f8fe8",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214954.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.62,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "47630468-d1eb-4706-90f2-9b63b8fcdb42",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215050_edit_129776372566133.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.26,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "ad1c6c4b-4ab6-4c14-8fca-b037387bfc05",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215026.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.21,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "02cc58df-d5c0-407e-b02c-b5d030d2a2da",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214531_edit_130145806798889.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 4,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "4f734286-0a2a-4c1d-be85-46f16c9e6338",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215009_edit_129839385918727.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.19,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "e835ac5f-35f1-4f8f-8c11-ccaab0d444fe",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214627_edit_130110153669207.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.53,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "a899ab37-7163-4009-a25c-969dd5467505",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214421_edit_130184542464508.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.18,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "0bfd8496-474d-4be2-bd39-bad411b6985d",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214637.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.23,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "9fc605ff-1ad9-438f-b0e9-01ae8acb93bb",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20241224_200405.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.22,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "59e040a1-3b40-40a7-b0de-77335d757f40",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214928_edit_130029221431199.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.02,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "4fc9d08e-15cd-4547-8a19-10db2f2b0187",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20241224_200359.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.09,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "93199437-768a-4ca3-8e62-0070d7b5447f",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214944_edit_130013223648909.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.49,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "f417c190-eadc-40d5-ba92-de38af8f1266",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214442.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 4,
+            "score_hands": 0
+        }
+    },
+    {
+        "request_id": "c84ce180-6799-4f8b-9a93-7bdb3af72eb4",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215052_edit_129766089357801.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.48,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "8f73285a-6e39-4146-b193-0e93cef2194d",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215032.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.27,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "927ba86e-7b02-4c64-8d56-ce8b4686e58d",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215023_edit_129810118733315.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.4,
+            "score_hands": 100
+        }
+    },
+    {
+        "request_id": "889e9463-62fd-4c0f-a712-fb113bfb9593",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214548_edit_130136189557224.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.34,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "676c0965-621e-47e2-919f-549885a07119",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214631.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.72,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "11ab97fb-1b85-4a4f-8646-673aeb14a587",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_215014_edit_129827914340083.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.43,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "be2da97a-8656-459b-aa7c-d803d9e5873e",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214521_edit_130152099273367.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.34,
+            "score_hands": 40
+        }
+    },
+    {
+        "request_id": "219e109a-2ae5-4811-b9c1-2dcee4bafb49",
+        "image": "/home/cquan/workspace/hsingmin/cdt_img/data/raw_image/IMG_20250102_214517_edit_130159158745241.png",
+        "hour": 5,
+        "minute": 20,
+        "result": {
+            "score_circle": 0.97,
+            "score_hands": 40
+        }
+    }
+]
